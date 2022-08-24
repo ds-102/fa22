@@ -1,0 +1,8 @@
+# Create one of these for each GSI, placing pictures in assets/staff
+- email:
+  image: "assets/staff/example.jpg"
+  oh_info:
+  - "Disc: W 12-1 @ Social Sciences 175"
+  - "Lab: M 11-12 @ Etcheverry 3109, M 3-4 @ Remote"
+  - "OH: W 10-12 @ Social Sciences 581"
+  name:
