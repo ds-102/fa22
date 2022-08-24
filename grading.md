@@ -10,6 +10,7 @@ Our goal in teaching this class is to help you learn the material. Our grading p
 You will be assessed through the following assignments:
 
 * (about) 14 weekly vitamins
+* (about) 14 weekly discussion worksheets
 * 6 homework assignments
 * 12 lab assignments
 * 2 midterms
@@ -21,16 +22,18 @@ You will be assessed through the following assignments:
 Grades will be assigned using the following weighted components:
 
 * Vitamins: 5%
+* Discussion worksheet/attendance: 5%
 * Homeworks: 20%
 * Labs: 15%
 * Midterm 1: 20%
 * Midterm 2: 20%
-* Final project: 20%
+* Final project: 15%
 
 ### Grading criteria
 
 * Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 15 minutes to complete. Your two lowest vitamin scores will be dropped.
-* Homework will be graded on completion and correctness. No assignment may be dropped, but we have a lenient extension policy (see below).
+* Discussion worksheets will be graded on completion (credit/no-credit)
+* Homework will be graded on completion and correctness. No assignment may be dropped, but we have a slip day policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * When submitting assignments on Gradescope, **you must match each page to the corresponding question on Gradescope**. If you fail to do so, you may not receive credit for your work!
 * A grading rubric and more details regarding the final project will be released later in the semester.
@@ -42,19 +45,24 @@ Grades will be assigned using the following weighted components:
 
 ## Exams
 
-There will be two midterms on February 24, 2022, and April 14, 2022. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. We will not accept any conflicts after the drop deadline (except for emergencies).
+There will be two midterms on October 6, 2022, and November 22, 2022. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
 
 <!--The exams will be proctored, and will tentatively be held in person. Any remote exams will also be proctored, using a protocol similar to CS161.-->
 
-Exams will tentatively be held in person. Further information will be communicated in due course.
+Exams will be held in person. Further information will be communicated in due course.
 
-## Late Policy
+## Slip Days
 
-We strongly encourage you to turn in assignments on time. We plan course staff availability (office hours, time spent on Ed, etc.) based on the due dates: specifically, around homework being due Friday.
+Each student gets an extension budget of 5 total slip days. You can use the extension on homework assignments only (not lab assignments, weekly vitamins, or the final project) during the semester. Some important notes on slip days:
+* **Do not plan to use your slip days**: we're providing them for unforeseen circumstances.
+* **Slip days are self-serve**: we'll apply them to your assignments automatically.
+* **Slip days are full days, not hours.** We round up, so if you are 1 hour late, then 1 slip day will be used. (Why? We’d rather you get some sleep and make an attempt to finish the assignment the next day instead of staying up to micromanage hours.)
+* After you have used your slip-time budget, any assignment handed in late will be marked off 20% per day late (rounded up to the nearest integer number of days).
+* No assignment will be accepted more than 5 days late.
 
-We know that we’re still in an unprecedented global pandemic: unforeseen circumstances beyond your control can and will come up, and so we offer a self-serve extension of up to 3 days on all homework assignments. You may turn in any homework assignment up to 3 days after the due date and still receive full credit. Please don't plan to turn in all your homework assignments 3 days late: to help allocate course staff time and for the well-being of our course staff, we won't have as much availability to answer questions after the assignment is due. For labs, you can submit up to 24 hours after the posted deadline without penalty, in the same manner as homeworks.
+We know that we’re still in an unprecedented global pandemic and economic downturn: **If you have already used up your 5 slip days in the semester** and you are facing extenuating circumstances or unusual hardship, you can contact us for extra accomodations. We’re here to help you learn!
 
-**You should still consider the assignments as due at the posted deadlines, and treat the grace periods as "extensions" that would normally be granted in certain situations, such as falling sick, testing positive, power outage, etc. As such, please do not contact course staff asking for extensions beyond the stated grace periods.** If an unfortunate situation arises such that you will not be able to participate in the class for a significant amount of time, such as a death in the family, hospitalization, etc., then please get in touch when you can and we will discuss.
+For information on DSP accommodations, please refer to the course Ed site.
 
 DSP students eligible to receive extensions on assignments will have homeworks due 48 hours after the posted deadline, and will receive the above 3-day grace period as well. Labs and vitamins will be due 24 hours after the posted deadline, plus the 24-hour grace period for labs.
 

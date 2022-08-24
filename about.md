@@ -20,18 +20,15 @@ If you are requesting extensions or if you have personal concerns, please contac
 
 All course announcements will be made on Ed.
 
-
 ## Important Information
 
-**NOTE:** The below information reflects our plans for the bulk of the semester. Note that all activities will be held remotely for the first two weeks, per campus. However, once campus allows, we plan to return to *primarily* in-person lab, discussion, and office hours, although we do plan to have remote options available for all class activity beyond the first two weeks. *Lecture will be held remotely throughout the entire semester.*
+**Lecture videos:** Lecture videos will be released on Tuesdays and Thursdays by 11AM, and will be accessible from the main site: we'll also make announcements on Ed when they're released. You can watch these videos at your own pace, but an instructor or GSI will be available to answer lecture questions on Ed in near real-time from 2-3PM on Tuesdays and Thursdays.
 
-**Lecture:** Tuesdays and Thursdays from 9:30 AM to 11:00 AM, remotely on Zoom. See Ed posts (link coming soon) for the zoom link. Lecture videos will be recorded and links will be available on the course website within a few hours after lecture.
+**Discussion session:** Discussion section will be held **in-person** on Fridays from 3:30-5 in 100 Lewis, led by your instructors. These sections will cover important problem-solving skills that bridge the concepts in the lecture videos with the skills you'll need to apply the ideas on the homework and beyond. Attendance is required: you must turn in your discussion worksheet at the end of class to receive credit.
 
-**Discussion session:** Wednesdays in-person (with virtual sessions for those unable to be on campus: more info TBA). See Ed posts (link coming soon) for more information on this. Attendance is highly encouraged but not mandatory.
+**Lab:** Mondays in-person. You can complete lab assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff.
 
-**Lab:** Mondays in-person (with virtual sessions for those unable to be on campus: more info TBA). You can complete lab assignments on your own time, but you are highly encouraged to attend lab sessions to work with your classmates and get help from the staff.
-
-**Contacting Course Staff**: The best way to contact course staff is using Ed, using a private post as needed—we'll be checking it regularly and should respond to most questions within a day or less. If you need to reach out to course staff and Ed isn't suitable, you can email [data102@berkeley.edu], and you should get a response within a few days. **Please avoid emailing professors or GSIs directly!**
+**Contacting Course Staff**: The best way to contact course staff is using Ed, using a private post as needed—we'll be checking it regularly and should respond to most questions within a day or less. If you need to reach out to course staff and Ed isn't suitable, you can email [data102@berkeley.edu], and you should get a response within a few days. **Please avoid emailing professors or GSIs directly!** You are much less likely to get a timely response.
 
 
 ## Office Hour, Lab, and Discussion Schedule
