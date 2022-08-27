@@ -1,8 +1,45 @@
 # Create one of these for each GSI, placing pictures in assets/staff
-- email:
-  image: "assets/staff/example.jpg"
+
+- email: mgu2001@berkeley.edu
+  image: "assets/staff/michelle.png"
   oh_info:
-  - "Disc: W 12-1 @ Social Sciences 175"
-  - "Lab: M 11-12 @ Etcheverry 3109, M 3-4 @ Remote"
-  - "OH: W 10-12 @ Social Sciences 581"
-  name:
+  - "Lab 1: M 11-12, Hearst Gym 242"
+  - "Lab 2: M 12-1, Etcheverry Hall 3105"
+  - "OH: Tu 8-10, Warren Hall 101B"
+  name: Michelle Gu
+  
+- email: rachelmccarty@berkeley.edu
+  image: "assets/staff/rachel.jpg"
+  oh_info:
+  - "Lab: M 9-10, Etcheverry Hall 3105"
+  - "OH: M 2-4, Warren Hall 101B"
+  name: Rachel McCarty
+  
+- email: aidan_mcloughlin@berkeley.edu
+  image: "assets/staff/aidan.jpg"
+  oh_info:
+  - "Lab 1: M 2-3, Etcheverry Hall 3105"
+  - "Lab 2: M 3-4, Etcheverry Hall 3105"
+  - "OH: Tu 3-5, Warren Hall 101B"
+  name: Aidan McLoughlin
+  
+- email: mariel_werner@berkeley.edu
+  image: "assets/staff/mariel.jpg"
+  oh_info:
+  - "Lab: M 10-11, Evans Hall 9"
+  - "OH: M 8-10, Warren Hall 101B"
+  name: Mariel Werner
+
+- email: tonytuzki@berkeley.edu
+  image: "assets/staff/tony.jpg"
+  oh_info:
+  - "Lab: M 1pm-2pm, Moffit Library 106"
+  - "OH: Tu 2pm-4pm, Warren Hall 101B"
+  name: Tony Yu
+
+- email: ruiqi-zhong@berkeley.edu
+  image: "assets/staff/ruiqi.png"
+  oh_info:
+  - "Lab: M 4-5, Etcheverry Hall 3105"
+  - "OH: W 9-11, Warren Hall 101B"
+  name: Ruiqi Zhong

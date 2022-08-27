@@ -1,10 +1,10 @@
-- Email:
-  image:
-  name:
-  oh_info:
+- Email: ramesh_s@berkeley.edu
+  image: "assets/staff/ramesh.jpeg"
+  name: Ramesh Sridharan
+  oh_info: 
   -
-- Email:
-  image:
-  name:
+- Email: jsteinhardt@berkeley.edu
+  image: "assets/staff/jacob.png"
+  name: Jacob Steinhardt
   oh_info:
   -
