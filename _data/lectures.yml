@@ -31,6 +31,8 @@
 
 - date: Tuesday 08/30/22
   topic: Binary Decision-Making
+  lab: |
+      - [Lab 0](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab0/)
 
 - date: Thursday 09/01/22
   topic: P-Values and Multiple Hypothesis Testing
