@@ -51,6 +51,10 @@
   topic: Online False Discovery Rate Control & ROC curves
   lab: |
       - [Lab 1](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab01/)
+  video: https://www.youtube.com/watch?v=xouSdEQfvYY&list=PLSEfoRJ1f3UO2QhICeAXUNvcJ4JKqvweA
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/18KqWpnK7JosPfVD2p-zPLCLOYPy8V_fDXoQEb8h0nks/edit?usp=sharing)
+      - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture04/binary_classification.ipynb)
 
 - date: Thursday 09/08/22
   topic: Frequentist vs. Bayesian Decision-Making
