@@ -32,7 +32,7 @@ Grades will be assigned using the following weighted components:
 ### Grading criteria
 
 * Vitamins are weekly short assignments to check that you are keeping up with lectures. Vitamins should take fewer than 15 minutes to complete. Your two lowest vitamin scores will be dropped.
-* Discussion worksheets will be graded on completion (credit/no-credit)
+* Discussion worksheets will be graded on completion (credit/no-credit). You may miss three discussion worksheets without penalty to overall discussion grade.
 * Homework will be graded on completion and correctness. No assignment may be dropped, but we have a slip day policy (see below).
 * Lab assignments will be graded on completion and correctness, but all test cases for autograded questions will be public. Your two lowest lab scores will be dropped.
 * When submitting assignments on Gradescope, **you must match each page to the corresponding question on Gradescope**. If you fail to do so, you may not receive credit for your work!
