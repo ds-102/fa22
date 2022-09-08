@@ -64,7 +64,7 @@ We know that we’re still in an unprecedented global pandemic and economic down
 
 For information on DSP accommodations, please refer to the course Ed site.
 
-DSP students eligible to receive extensions on assignments will have homeworks due 48 hours after the posted deadline, and will receive the above 3-day grace period as well. Labs and vitamins will be due 24 hours after the posted deadline, plus the 24-hour grace period for labs.
+DSP students eligible to receive extensions on assignments will have homeworks due 48 hours after the posted deadline. Labs and vitamins will be due 24 hours after the posted deadline.
 
 
 ## Collaboration Policy

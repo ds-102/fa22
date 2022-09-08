@@ -39,6 +39,7 @@
       - (Optional reading) [The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
   discussion: |
       - [Disc. 1](assets/discussion/Discussion1.pdf)
+      - [Soln.](assets/discussion/Discussion1_Solutions.pdf)
 
 - date: Thursday 09/01/22
   topic: P-Values and Multiple Hypothesis Testing
@@ -60,6 +61,7 @@
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture04/binary_classification.ipynb)
   discussion: |
       - [Disc. 2](assets/discussion/Discussion2.pdf)
+      - [Soln.](assets/discussion/Discussion2_Solutions.pdf)
 
 - date: Thursday 09/08/22
   topic: Frequentist vs. Bayesian Decision-Making
