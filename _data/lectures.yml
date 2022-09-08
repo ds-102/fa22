@@ -65,6 +65,10 @@
 
 - date: Thursday 09/08/22
   topic: Frequentist vs. Bayesian Decision-Making
+  video: https://www.youtube.com/watch?v=0tZXjb20Cgc&list=PLSEfoRJ1f3UNPRJxzZuob052CGU9IG8Qe
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1IvUazDlvCkaSgkJ2Srvhv_Uz9BfY-VyBWDklRWqB0mE/edit?usp=sharing)
+      - [Lecture Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture05/decision_theory.ipynb)
 
 - date: Tuesday 09/13/22
   topic: Overview of Bayesian Modeling
