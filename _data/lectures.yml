@@ -72,6 +72,9 @@
 
 - date: Tuesday 09/13/22
   topic: Overview of Bayesian Modeling
+  video: https://www.youtube.com/watch?v=fVg2kf0lmVk&list=PLSEfoRJ1f3UMtGnxWv5Kbapo2J02zxvtE
+  slides: |
+      - [Lecture Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture06/parameter_estimation.ipynb)
   lab: |
     - [Lab 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab02/)
   discussion: |
