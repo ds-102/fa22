@@ -74,6 +74,9 @@
   topic: Overview of Bayesian Modeling
   lab: |
     - [Lab 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab02/)
+  discussion: |
+    - [Disc. 3](assets/discussion/Discussion3.pdf)
+    - [Soln.](assets/discussion/Discussion3_Solutions.pdf)
 - date: Thursday 09/15/22
   topic: Graphical Models
 
