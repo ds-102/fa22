@@ -80,8 +80,14 @@
   discussion: |
     - [Disc. 3](assets/discussion/Discussion3.pdf)
     - [Soln.](assets/discussion/Discussion3_Solutions.pdf)
+
 - date: Thursday 09/15/22
   topic: Graphical Models
+  video: https://www.youtube.com/watch?v=EU2pTHV4Jz0&list=PLSEfoRJ1f3UMVF7HyFXWLqO9msxzz1QJF
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1Aj6owI2sdgWZpT_kkG_uP-LMeaXKXET-a6onoignKxo/edit?usp=sharing)
+      - [Slides (annotated)](assets/notes/lecture07_annotated.pdf)
+      - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture07/lecture07.ipynb)
 
 - date: Tuesday 09/20/22
   topic: Rejection Sampling and Markov Chains
