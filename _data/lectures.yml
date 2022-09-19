@@ -91,6 +91,9 @@
 
 - date: Tuesday 09/20/22
   topic: Rejection Sampling and Markov Chains
+  discussion: |
+    - [Disc. 4](assets/discussion/Discussion4.pdf)
+    - [Soln.](assets/discussion/Discussion4_Solutions.pdf)
 
 - date: Thursday 09/22/22
   topic: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
