@@ -88,9 +88,14 @@
       - [Slides](https://docs.google.com/presentation/d/1Aj6owI2sdgWZpT_kkG_uP-LMeaXKXET-a6onoignKxo/edit?usp=sharing)
       - [Slides (annotated)](assets/notes/lecture07_annotated.pdf)
       - [Demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture07/lecture07.ipynb)
+  homework: |
+      - [HW 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw1/)
+      - [PDF](assets/homework/hw2.pdf)
 
 - date: Tuesday 09/20/22
   topic: Rejection Sampling and Markov Chains
+  lab: |
+    - [Lab 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab03/)
   discussion: |
     - [Disc. 4](assets/discussion/Discussion4.pdf)
     - [Soln.](assets/discussion/Discussion4_Solutions.pdf)
