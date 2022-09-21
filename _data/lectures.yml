@@ -93,12 +93,17 @@
       - [PDF](assets/homework/hw2.pdf)
 
 - date: Tuesday 09/20/22
-  topic: Rejection Sampling and Markov Chains
+  topic: Rejection Sampling
   lab: |
     - [Lab 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab03/)
   discussion: |
     - [Disc. 4](assets/discussion/Discussion4.pdf)
     - [Soln.](assets/discussion/Discussion4_Solutions.pdf)
+  video: https://www.youtube.com/watch?v=s3ptAeJFMbA&list=PLSEfoRJ1f3UN3R-f3-rS4-WW-9Q8Blp7n
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1cyKrx-YOGcykB2jWQn43UgcPjkCWT2PMKlqWmCJ4cJ8/edit?usp=sharing)
+      - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture08/rejection_sampling.ipynb)
+
 
 - date: Thursday 09/22/22
   topic: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
