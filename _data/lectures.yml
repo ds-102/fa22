@@ -107,6 +107,10 @@
 
 - date: Thursday 09/22/22
   topic: Markov Chain Monte Carlo (MCMC) and Gibbs Sampling
+  video: https://www.youtube.com/watch?v=1HT-ZcYQgPM&list=PLSEfoRJ1f3UM3c0imy81INQgP01C33Chc
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1O9kGQr25cintNUU3UndNyei7x_IXMbmjbJUEx6AkV1k/edit?usp=sharing)
+      - [Lecture notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture09/gibbs_sampling.ipynb)
 
 - date: Tuesday 09/27/22
   topic: Regression and GLMs
