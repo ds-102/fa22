@@ -116,6 +116,9 @@
   topic: Regression and GLMs
   lab: |
       - [Lab 4](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab04/)
+  discussion: |
+      - [Disc. 5](assets/discussion/Discussion5.pdf)
+      - [Soln.](assets/discussion/Discussion5_Solutions.pdf)
 
 - date: Thursday 09/29/22
   topic: Model checking for GLMs
