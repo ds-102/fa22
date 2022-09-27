@@ -119,7 +119,7 @@
   discussion: |
       - [Disc. 5](assets/discussion/Discussion5.pdf)
       - [Soln.](assets/discussion/Discussion5_Solutions.pdf)
-  video: https://www.youtube.com/playlist?list=PLSEfoRJ1f3UM7Bgyi37qZdgZ49il9w8PC
+  video: https://www.youtube.com/watch?v=JKB6ibuge00&list=PLSEfoRJ1f3UM7Bgyi37qZdgZ49il9w8PC&index=1
   slides: |
     - [Regression review explainer](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture10/glms.ipynb)
     - [GLM demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture10/glms.ipynb)
