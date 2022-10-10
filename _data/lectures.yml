@@ -130,6 +130,9 @@
       - [Slides](https://docs.google.com/presentation/d/1qKSVZ-aee3haSmmm-O0u5OK6osgIQsME3Rqg8B2kTl8/edit?usp=sharing)
       - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture11/posterior_predictive_checks.ipynb)
   video: https://www.youtube.com/watch?v=wc7IG2lTXVY&list=PLSEfoRJ1f3UNOrwy7rV3UcRRRrCBT88tA
+  homework: |
+      - [HW 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw3/)
+      - [PDF](assets/homework/hw3.pdf)
 
 - date: Tuesday 10/04/22
   topic: Uncertainty quantification for GLMs
@@ -137,6 +140,8 @@
     - [Disc. 6](assets/discussion/Discussion6.pdf)
     - [Soln.](assets/discussion/Discussion6_Solutions.pdf)
     - [Past MT1 Review.](https://www.youtube.com/watch?v=BzK5hD3lyvA)
+  lab: |
+      - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab05/)
 
 - date: Thursday 10/06/22
   topic: Midterm 1
