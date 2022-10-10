@@ -125,7 +125,7 @@
     - [GLM demo notebook](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture10/glms.ipynb)
 
 - date: Thursday 09/29/22
-  topic: Model checking for GLMs
+  topic: Uncertainty quantification and model checking for GLMs (Bayesian)
   slides: |
       - [Slides](https://docs.google.com/presentation/d/1qKSVZ-aee3haSmmm-O0u5OK6osgIQsME3Rqg8B2kTl8/edit?usp=sharing)
       - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture11/posterior_predictive_checks.ipynb)
@@ -135,19 +135,27 @@
       - [PDF](assets/homework/hw3.pdf)
 
 - date: Tuesday 10/04/22
-  topic: Uncertainty quantification for GLMs
+  topic: Uncertainty quantification and model checking for GLMs (Frequentist)
   discussion: |
     - [Disc. 6](assets/discussion/Discussion6.pdf)
     - [Soln.](assets/discussion/Discussion6_Solutions.pdf)
     - [Past MT1 Review.](https://www.youtube.com/watch?v=BzK5hD3lyvA)
   lab: |
       - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab05/)
+  video: https://www.youtube.com/watch?v=-zqDr44xCPo&list=PLSEfoRJ1f3UO6xTDrREQzgmhs_xRv3kmw
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/1X1Vn8SxXfhu0EanJrjbR_MM4mv_GWko-NzSF-KtdqsM/edit?usp=sharing)
+    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture12/bootstrap.ipynb)
+
 
 - date: Thursday 10/06/22
   topic: Midterm 1
 
 - date: Tuesday 10/11/22
   topic: Nonparametric Methods and Neural Networks
+  slides: |
+    - Slides
+    - Demo
 
 - date: Thursday 10/13/22
   topic: Neural Networks and Interpretability
