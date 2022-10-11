@@ -153,9 +153,10 @@
 
 - date: Tuesday 10/11/22
   topic: Nonparametric Methods and Neural Networks
+  video: https://www.youtube.com/watch?v=P8nu5G7fg08&list=PLSEfoRJ1f3UOKzQUnzbz9GFk9_0n2cFdu
   slides: |
-    - Slides
-    - Demo
+    - [Nonparametric methods notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/01_nonparametric.ipynb)
+    - [Neural networks and backpropagation notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/02_NNs_Autodiff_backprop.ipynb)
 
 - date: Thursday 10/13/22
   topic: Neural Networks and Interpretability
