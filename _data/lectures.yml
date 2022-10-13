@@ -159,7 +159,11 @@
     - [Neural networks and backpropagation notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/02_NNs_Autodiff_backprop.ipynb)
 
 - date: Thursday 10/13/22
-  topic: Neural Networks and Interpretability
+  topic: Interpretability, Comparisons, and Summary
+  video: https://www.youtube.com/watch?v=UNkPgHGtmwI&list=PLSEfoRJ1f3UNN6UzVwml24TtAyGKSp7iv
+    - [Slides](https://docs.google.com/presentation/d/1rVx1FW451FL4zeoD55Uw80kzTn1yvap1fWnfeRDxrlo/edit?usp=sharing)
+    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture14/03_interp_demo.ipynb)
+    - (Optional video) [Prof. Cynthia Rudin on explainability](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
 
 - date: Tuesday 10/18/22
   topic: Causal Inference I, Problems with association
