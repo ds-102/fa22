@@ -9,6 +9,7 @@ We will be posting all lecture materials on the course syllabus.
 
 | Semester | Midterm (1) | Midterm 2 | Final |
 | -- | -- | -- | -- |
+| Fall 2022 | [Exam](assets/exam/mt1/fa22_mt1.pdf) [(Solutions)](assets/exam/mt1/fa22_mt1_sol.pdf) | [Exam](assets/exam/mt2/fa22_mt2.pdf) [(Solutions)](assets/exam/mt2/fa22_mt2_sol.pdf) |  |
 | Spring 2022 | [Exam](assets/exam/mt1/sp22_mt1.pdf) [(Solutions)](assets/exam/mt1/sp22_mt1_sol.pdf) | [Exam](assets/exam/mt2/sp22_mt2.pdf) [(Solutions)](assets/exam/mt2/sp22_mt2_sol.pdf) |  |
 | Fall 2021 | [Exam](assets/exam/mt1/fa21_mt1.pdf) [(Solutions)](assets/exam/mt1/fa21_mt1_sol.pdf) | [Exam](assets/exam/mt2/fa21_mt2.pdf) [(Solutions)](assets/exam/mt2/fa21_mt2_sol.pdf) |  |
 | Spring 2021 | [Exam](assets/exam/mt1/sp21_mt1.pdf) [(Solutions)](assets/exam/mt1/sp21_mt1_sol.pdf) | [Exam](assets/exam/mt2/sp21_mt2.pdf) [(Solutions)](assets/exam/mt2/sp21_mt2_sol.pdf) |  |
