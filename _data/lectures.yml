@@ -157,6 +157,8 @@
   slides: |
     - [Nonparametric methods notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/01_nonparametric.ipynb)
     - [Neural networks and backpropagation notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/02_NNs_Autodiff_backprop.ipynb)
+  lab: |
+      - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab06/)
 
 - date: Thursday 10/13/22
   topic: Interpretability, Comparisons, and Summary
