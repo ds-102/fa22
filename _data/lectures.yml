@@ -171,9 +171,18 @@
 
 - date: Tuesday 10/18/22
   topic: Causal Inference I, Problems with association
+  video: https://www.youtube.com/watch?v=OpoLPAJbr7w&list=PLSEfoRJ1f3UNnSTeDKN2Lkv5qF2WXKQY9
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/1EAowIVKMpuPvu9LHEH7o6VzCWf6wPOjaQd7AA0BkyDQ/edit?usp=sharing)
+    - [Notes 1: Association, correlation, and causation](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/01_association_correlation_causation.ipynb)
+    - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/02_quantifying_association.ipynb)
+    - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/03_causality.ipynb)
+    - Required reading for next time: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
 
 - date: Thursday 10/20/22
   topic: Causal Inference II, Randomized experiments
+  slides: |
+    - Required reading: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
 
 - date: Tuesday 10/25/22
   topic: Causal Inference III, Observational studies
