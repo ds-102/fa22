@@ -183,7 +183,7 @@
   topic: Causal Inference II, Randomized experiments
   slides: |
     - Required reading: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
-    - [Slides]()
+    - [Slides](https://docs.google.com/presentation/d/1OelDkwtrzlSZKH2oOnUyBWQGM3KbLdMtjPRKKtreS08/edit#slide=id.g16fe08be2f0_0_0)
     - [Notes: ATE and randomized experiments](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_randomized_experiments.ipynb)
     - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_instrumental_variables.ipynb)
   video: https://www.youtube.com/watch?v=FsHgkgVNDko&list=PLSEfoRJ1f3UO8PsohVuTHvemxC9Gynhsl&index=1
