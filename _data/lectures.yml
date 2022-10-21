@@ -183,30 +183,34 @@
   topic: Causal Inference II, Randomized experiments
   slides: |
     - Required reading: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
+    - [Slides]()
+    - [Notes: ATE and randomized experiments](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_randomized_experiments.ipynb)
+    - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_instrumental_variables.ipynb)
+  video: https://www.youtube.com/watch?v=FsHgkgVNDko&list=PLSEfoRJ1f3UO8PsohVuTHvemxC9Gynhsl&index=1
 
 - date: Tuesday 10/25/22
   topic: Causal Inference III, Observational studies
 
 - date: Thursday 10/27/22
-  topic: Reinforcement Learning I
-
-- date: Tuesday 11/01/22
-  topic: Reinforcement Learning II
-
-- date: Thursday 11/03/22
   topic: Concentration inequalities
 
-- date: Tuesday 11/08/22
+- date: Tuesday 11/01/22
   topic: Bandits I
 
-- date: Thursday 11/10/22
+- date: Thursday 11/03/22
   topic: Bandits II
 
+- date: Tuesday 11/08/22
+  topic: Reinforcement Learning I
+
+- date: Thursday 11/10/22
+  topic: Reinforcement Learning II
+
 - date: Tuesday 11/15/22
-  topic: Midterm 2
+  topic: Differential Privacy
 
 - date: Thursday 11/17/22
-  topic: Differential Privacy
+  topic: Midterm 2
 
 - date: Tuesday 11/22/22
   topic: Robustness and Generalization
