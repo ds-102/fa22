@@ -45,7 +45,7 @@ Grades will be assigned using the following weighted components:
 
 ## Exams
 
-There will be two midterms on October 6, 2022, and November 22, 2022. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
+There will be two midterms on October 6, 2022, and November 17, 2022. Midterms will be held from 7-9PM. You must take the midterm at the specified time: if you have a conflict, please contact course staff ASAP at data102@berkeley.edu. **We will not accept any conflicts after the drop deadline** (except for emergencies).
 
 <!--The exams will be proctored, and will tentatively be held in person. Any remote exams will also be proctored, using a protocol similar to CS161.-->
 
