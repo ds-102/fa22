@@ -178,6 +178,9 @@
     - Required reading for next time: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
   lab: |
       - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab06/)
+  discussion: |
+      - [Disc. 7](assets/discussion/Discussion7.pdf)
+      - [Soln.](assets/discussion/Discussion7_Solutions.pdf)
 
 - date: Thursday 10/20/22
   topic: Causal Inference II, Randomized experiments
@@ -195,6 +198,9 @@
   topic: Causal Inference III, Observational studies
   lab: |
     - [Lab 7](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab07/)
+  discussion: |
+      - [Disc. 8](assets/discussion/Discussion8.pdf)
+      - [Soln.](assets/discussion/Discussion8_Solutions.pdf)
 
 - date: Thursday 10/27/22
   topic: Concentration inequalities
