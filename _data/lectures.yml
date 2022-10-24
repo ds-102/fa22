@@ -140,8 +140,6 @@
     - [Disc. 6](assets/discussion/Discussion6.pdf)
     - [Soln.](assets/discussion/Discussion6_Solutions.pdf)
     - [Past MT1 Review.](https://www.youtube.com/watch?v=BzK5hD3lyvA)
-  lab: |
-      - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab05/)
   video: https://www.youtube.com/watch?v=-zqDr44xCPo&list=PLSEfoRJ1f3UO6xTDrREQzgmhs_xRv3kmw
   slides: |
     - [Slides](https://docs.google.com/presentation/d/1X1Vn8SxXfhu0EanJrjbR_MM4mv_GWko-NzSF-KtdqsM/edit?usp=sharing)
@@ -158,7 +156,7 @@
     - [Nonparametric methods notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/01_nonparametric.ipynb)
     - [Neural networks and backpropagation notes and demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture13/02_NNs_Autodiff_backprop.ipynb)
   lab: |
-      - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab06/)
+      - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab05/)
 
 - date: Thursday 10/13/22
   topic: Interpretability, Comparisons, and Summary
@@ -178,6 +176,8 @@
     - [Notes 2: Quantifying association](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/02_quantifying_association.ipynb)
     - [Notes 3: Causality and Potential Outcomes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture15/03_causality.ipynb)
     - Required reading for next time: [Discrimination in hiring article](https://www.nytimes.com/2021/07/29/business/economy/hiring-racial-discrimination.html) ([pdf](https://drive.google.com/file/d/1oocOtWYRsrFS_CEzeSm_t3mlBqdHKUmw/view?usp=sharing)) and skim the [paper](https://www.nber.org/papers/w29053)
+  lab: |
+      - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab06/)
 
 - date: Thursday 10/20/22
   topic: Causal Inference II, Randomized experiments
@@ -190,6 +190,8 @@
 
 - date: Tuesday 10/25/22
   topic: Causal Inference III, Observational studies
+  lab: |
+    - [Lab 7](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab07/)
 
 - date: Thursday 10/27/22
   topic: Concentration inequalities
