@@ -187,6 +187,9 @@
     - [Notes: ATE and randomized experiments](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_randomized_experiments.ipynb)
     - [Notes: Instrumental variables](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture16/05_instrumental_variables.ipynb)
   video: https://www.youtube.com/watch?v=FsHgkgVNDko&list=PLSEfoRJ1f3UO8PsohVuTHvemxC9Gynhsl&index=1
+  homework: |
+      - [HW 4](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw4/)
+      - [PDF](assets/homework/hw4.pdf)
 
 - date: Tuesday 10/25/22
   topic: Causal Inference III, Observational studies
