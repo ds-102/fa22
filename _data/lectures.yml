@@ -207,6 +207,10 @@
 
 - date: Thursday 10/27/22
   topic: Concentration inequalities
+  video: https://www.youtube.com/watch?v=KiD4SHKpVho&list=PLSEfoRJ1f3UMnbUCUVnADwaBR8wsKt0tW
+  slides: |
+    - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture18/concentration.ipynb)
+    - [Handwritten notes](assets/notes/ConcentrationInequalitiesHandwritten.pdf)
 
 - date: Tuesday 11/01/22
   topic: Bandits I
