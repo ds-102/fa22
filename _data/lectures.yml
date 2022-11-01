@@ -216,6 +216,9 @@
   topic: Bandits I
   lab: |
     - [Lab 8](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab08/)
+  discussion: |
+      - [Disc. 9](assets/discussion/Discussion9.pdf)
+      - [Soln.](assets/discussion/Discussion9_Solutions.pdf)
   video: https://www.youtube.com/watch?v=9kA6kGfRA2A&list=PLSEfoRJ1f3UOvvRl51lPbBma0fgiM-ovZ
   slides: |
     - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture18/concentration.ipynb)
