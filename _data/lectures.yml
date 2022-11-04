@@ -221,7 +221,7 @@
       - [Soln.](assets/discussion/Discussion9_Solutions.pdf)
   video: https://www.youtube.com/watch?v=9kA6kGfRA2A&list=PLSEfoRJ1f3UOvvRl51lPbBma0fgiM-ovZ
   slides: |
-    - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture18/concentration.ipynb)
+    - [Notes (fixed)](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture19/bandits_notes.ipynb)
     - [slides](https://docs.google.com/presentation/d/1mpzP3o9LU65GErF1szTZKx0-suhIjN09w00cN4cl1MY/edit?usp=sharing)
 
 - date: Thursday 11/03/22
@@ -229,6 +229,12 @@
   homework: |
       - [HW 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=homeworks/hw5/)
       - [PDF](assets/homework/hw5.pdf)
+  video: https://www.youtube.com/watch?v=3TR014EjfSI&list=PLSEfoRJ1f3UNPwXnF26u94xH0j8N_rMq_
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/12AVFgxldP51EaXYucucbR5GIrzZaGWdiJ8QiPxtGfGg/edit?usp=sharing)
+    - [Notes](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture19/bandits_notes.ipynb)
+    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture19/MAB_demo.ipynb)
+    - Handwritten notes
 
 - date: Tuesday 11/08/22
   topic: Reinforcement Learning I
