@@ -240,6 +240,10 @@
   topic: Reinforcement Learning I
   lab: |
     - [Lab 9](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab09/)
+  slides: |
+    - [Slides](https://docs.google.com/presentation/d/1moPfnNvaEJGlHp_w2MEx1zaFqe-2aFYo5ZxJ3Fg3ZEI/edit?usp=sharing)
+    - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture21/reinforcement_learning.ipynb)
+  video: https://www.youtube.com/watch?v=H11zP-DKIdc&list=PLSEfoRJ1f3UORjc44--IElbTdk1sUueYf
 
 - date: Thursday 11/10/22
   topic: Reinforcement Learning II
