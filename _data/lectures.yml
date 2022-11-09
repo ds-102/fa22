@@ -244,6 +244,9 @@
     - [Slides](https://docs.google.com/presentation/d/1moPfnNvaEJGlHp_w2MEx1zaFqe-2aFYo5ZxJ3Fg3ZEI/edit?usp=sharing)
     - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture21/reinforcement_learning.ipynb)
   video: https://www.youtube.com/watch?v=H11zP-DKIdc&list=PLSEfoRJ1f3UORjc44--IElbTdk1sUueYf
+  discussion: |
+      - [Disc. 10](assets/discussion/Discussion10.pdf)
+      - [Soln.](assets/discussion/Discussion10_Solutions.pdf)
 
 - date: Thursday 11/10/22
   topic: Reinforcement Learning II
