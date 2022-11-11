@@ -245,11 +245,15 @@
     - [Demo](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=lecture/lecture21/reinforcement_learning.ipynb)
   video: https://www.youtube.com/watch?v=H11zP-DKIdc&list=PLSEfoRJ1f3UORjc44--IElbTdk1sUueYf
   discussion: |
-      - [Disc. 10](assets/discussion/Discussion10.pdf)
-      - [Soln.](assets/discussion/Discussion10_Solutions.pdf)
+    - [Disc. 10](assets/discussion/Discussion10.pdf)
+    - [Soln.](assets/discussion/Discussion10_Solutions.pdf)
 
 - date: Thursday 11/10/22
   topic: Reinforcement Learning II
+  video: https://www.youtube.com/watch?v=_R8jQoNJhK4&list=PLSEfoRJ1f3UPHcUHYSxER-h4f7v-08VTw
+  slides: |
+      - [Slides](https://docs.google.com/presentation/d/1bPk36TIHAkCptkWU8WtiHYsJgoLBleX3FKG1dcwNDRk/edit?usp=sharing)
+      - [Handwritten Notes](assets/notes/QLearning.pdf)
 
 - date: Tuesday 11/15/22
   topic: Differential Privacy
