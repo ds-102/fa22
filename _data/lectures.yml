@@ -259,12 +259,21 @@
   topic: Differential Privacy
   lab: |
     - [Lab 10](http://data102.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-102/fa22&subPath=labs/lab10/)
+  video: https://youtu.be/ilJ0hf_NOxk
+  slides: |
+      - Note this lecture is a full video by Jacob from Fall 2022
+      - [Slides](https://docs.google.com/presentation/d/1LZ-kZzLitzrt5-4SLOf_mayN0FEYxhuQRNUuEDgyKAo/edit?usp=sharing)
+
 
 - date: Thursday 11/17/22
   topic: Midterm 2
 
 - date: Tuesday 11/22/22
   topic: Robustness and Generalization
+  video: https://youtu.be/XKXBgnKMydc
+  slides: |
+      - Note this lecture is a full video by Ramesh from Spring 2022
+      - [Slides](https://docs.google.com/presentation/d/1LZ-kZzLitzrt5-4SLOf_mayN0FEYxhuQRNUuEDgyKAo/edit?usp=sharing)
 
 - date: Thursday 11/24/22
   topic: Thanksgiving
