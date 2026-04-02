@@ -4,6 +4,9 @@ title: "Syllabus"
 page_class: content-wide
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 **This syllabus is under development and is subject to change.** Due dates for homework and lab assignments will be announced later.
 
 **If you are requesting an extension for a HW or lab assignment (due to DSP accommodations), please email the course email (data102@berkeley.edu) prior to the original deadline date.** Please avoid emailing the professors.
